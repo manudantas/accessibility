@@ -1,0 +1,14 @@
+nav {
+    background-color: transparent !important;
+    position: absolute !important;
+    overflow: hidden;
+    z-index: 2;
+
+    a {
+        color: white !important;
+    }
+
+    li {
+        margin-right: 20px;
+    }
+}

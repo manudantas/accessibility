@@ -1,0 +1,36 @@
+.section-one {
+    margin-left: 50px;
+    margin-top: 80px;
+    
+    h1, h2, h3, h4, h5, h6, p {
+        color: rgb(51, 50, 67);
+    }
+
+    h4 {
+        font-size: 23px;
+    }
+
+    h6 {
+        font-size: 18px;
+    }
+
+    .grey-card {
+        background: #F7F5F5;
+        height: 300px;
+        width: 450px;
+        border-radius: 15px;
+        box-shadow: 2px 2px 8px #e4dddd;
+        padding: 20px;
+        margin-left: 130px;
+    }
+
+    .white-card {
+        width: 450px;
+        background: white;
+        height: 300px;
+        border: 1px solid #F7F5F5;
+        border-radius: 15px;
+        box-shadow: 2px 2px 6px #e4dddd;
+        padding: 20px;
+    }
+}
