@@ -4,7 +4,7 @@ import '../styles/section-one.scss';
 const Section1 = () => (
     <div className="container-fluid">
         <div className="section-one">
-            <h1>Por que ter um site acessível ?</h1>
+            <h1><img className="mr-2" src={require('../chat.png')} alt="" />Por que ter um site acessível ?</h1>
             <p>A acessibilidade digital é lei e, aos poucos, acompanhamos o surgimento de ações que buscam que ela seja aplicada.</p>
             <div className="row mt-5">
                 <div className="col-sm-6">

@@ -6,7 +6,7 @@ const Section3 = () => (
             <div className="row">
                 <div className="col-sm-6">
                     <div className="title">
-                        <h1>Navegação por atalhos</h1>
+                        <h1><img className="road" src={require('../road.png')} alt="" />Navegação por atalhos</h1>
                         <p>A navegação da página deve ser por meio do teclado, para auxiliar pessoas com deficiência visual ou mobilidade reduzida.</p>
                         <button type="button" class="btn btn-primary">Mostrar</button>
                     </div>

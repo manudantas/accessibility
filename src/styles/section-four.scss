@@ -1,4 +1,22 @@
 .section-four {
     margin-left: 50px;
     margin-top: 80px;
+
+    p {
+        margin-bottom: 50px;
+    }
+
+    h1 {
+        img {
+            height: 50px;
+        }
+    }
+
+    img {
+        height: 250px;
+    }
+
+    .dark {
+        margin-left: 130px;
+    }
 }
