@@ -5,6 +5,7 @@ import Navbar from './components/Navbar.js'
 import Section1 from './components/Section-one'
 import Section2 from './components/Section-two'
 import Section3 from './components/Section-three'
+import Section4 from './components/Section-four'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Section1/>
       <Section2 />
       <Section3 />
+      <Section4 />
     </div>
   );
 }
